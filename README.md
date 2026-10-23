@@ -31,3 +31,10 @@
 * **核心框架**：[Astro](https://astro.build/)
 * **主题UI**：[Fuwari](https://github.com/saicaca/fuwari)
 * **内容格式**：Markdown / MDX
+
+
+### 🙏 致谢与开源声明 (Acknowledgments)
+
+本博客前端界面基于开源项目 [Fuwari](https://github.com/saicaca/fuwari) 构建。
+
+感谢原作者 [saicaca](https://github.com/saicaca) 以及所有为 Fuwari 主题作出贡献的开源开发者们（即本仓库右侧 Contributors 列表中的开发者）。正是由于他们优秀的 UI 架构设计与开源精神，才让“鹏宇科研工作室”能够拥有如此高效、美观的科研经验分享载体。
