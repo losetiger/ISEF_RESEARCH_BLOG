@@ -46,7 +46,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.About,
 		{
 			name: "GitHub",
-			url: "https://github.com/saicaca/fuwari", // Internal links should not include the base path, as it is automatically added
+			url: "https://github.com/losetiger/ISEF_RESEARCH_BLOG.git", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
@@ -69,11 +69,11 @@ export const profileConfig: ProfileConfig = {
 		// 	icon: "fa6-brands:steam",
 		// 	url: "https://store.steampowered.com",
 		// },
-		// {
-		// 	name: "GitHub",
-		// 	icon: "fa6-brands:github",
-		// 	url: "https://github.com/saicaca/fuwari",
-		// },
+		{
+			name: "GitHub",
+			icon: "fa6-brands:github",
+			url: "https://github.com/losetiger/ISEF_RESEARCH_BLOG.git",
+		},
 		{
             name: "WeChat",
             icon: "fa6-brands:weixin", // Iconify 提供的微信图标代号
