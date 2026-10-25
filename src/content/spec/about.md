@@ -68,16 +68,16 @@ description: 剖析科研底层逻辑 · 助力青少年顶尖赛事
     </div>
   </div>
 
-  <!-- 4. 联系方式 -->
+<!-- 4. 联系方式 -->
   <div class="p-6 rounded-2xl border border-black/10 dark:border-white/10 bg-slate-50 dark:bg-slate-900/50">
     <h2 class="text-lg font-bold text-slate-900 dark:text-slate-100 mb-4 pb-2 border-b border-black/5 dark:border-white/10 flex items-center gap-2">
       <span>📬</span> 联系方式
     </h2>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
-      <!-- <div class="p-4 rounded-xl bg-white dark:bg-slate-800 border border-black/5 dark:border-white/5">
-        <div class="text-base text-slate-400 font-bold mb-1 uppercase tracking-wider">微信咨询 (WeChat)</div>
-        <div class="text-base font-bold text-slate-800 dark:text-slate-200">cpy123456zzZ / 备注科研</div>
-      </div> -->
+      <!-- <div class="p-4 rounded-xl bg-white dark:bg-slate-800 border border-black/5 dark:border-white/5"> -->
+        <!-- <div class="text-base text-slate-400 font-bold mb-1 uppercase tracking-wider">微信咨询 (WeChat)</div>
+        <div class="text-base font-bold text-slate-800 dark:text-slate-200">你的微信号 / 备注科研</div> -->
+      <!-- </div> -->
       <div class="p-4 rounded-xl bg-white dark:bg-slate-800 border border-black/5 dark:border-white/5">
         <div class="text-base text-slate-400 font-bold mb-1 uppercase tracking-wider">电话联络 (Phone)</div>
         <div class="text-base font-bold text-slate-800 dark:text-slate-200">13935539912</div>

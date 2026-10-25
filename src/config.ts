@@ -53,8 +53,8 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "程鹏宇-13935539912",
+	avatar: "assets/images/head.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	name: "程鹏宇",
 	bio: "",
 	links: [
 		// {
@@ -77,7 +77,7 @@ export const profileConfig: ProfileConfig = {
 		{
             name: "WeChat",
             icon: "fa6-brands:weixin", // Iconify 提供的微信图标代号
-            url: "wechat.jpg", // 如果没有专门的二维码网页，可以写 "#" 或者你的微信号说明
+            url: "/wechat.jpg", // 如果没有专门的二维码网页，可以写 "#" 或者你的微信号说明
         },
 	],
 };
