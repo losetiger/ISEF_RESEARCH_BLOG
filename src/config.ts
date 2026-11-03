@@ -45,6 +45,11 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		LinkPreset.About,
 		{
+            name: "答辩模拟", // 导航栏显示的名称
+            url: "/isef-simulator/", // 对应你在 src/pages/ 下建的文件名（不加 .astro）
+            external: false, // 内部链接，设为 false
+        },
+		{
 			name: "GitHub",
 			url: "https://github.com/losetiger/ISEF_RESEARCH_BLOG.git", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
